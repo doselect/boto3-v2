@@ -43,21 +43,14 @@ setup(
     include_package_data=True,
     install_requires=requires,
     license="Apache License 2.0",
-<<<<<<< HEAD
     python_requires=">= 2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, !=3.5.*",
-=======
-    python_requires=">= 2.7",
->>>>>>> 15266aafb048a9a630d554e6fed8c6066586831a
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
         'Natural Language :: English',
         'License :: OSI Approved :: Apache Software License',
         'Programming Language :: Python',
-<<<<<<< HEAD
         'Programming Language :: Python :: 2',
-=======
->>>>>>> 15266aafb048a9a630d554e6fed8c6066586831a
         'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.6',
