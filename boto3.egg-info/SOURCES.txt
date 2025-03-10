@@ -1,15 +1,12 @@
 CONTRIBUTING.rst
 LICENSE
 MANIFEST.in
-NOTICE
 README.rst
-pyproject.toml
 requirements.txt
 setup.cfg
 setup.py
 boto3/__init__.py
 boto3/compat.py
-boto3/crt.py
 boto3/exceptions.py
 boto3/session.py
 boto3/utils.py
@@ -55,8 +52,6 @@ boto3/dynamodb/types.py
 boto3/ec2/__init__.py
 boto3/ec2/createtags.py
 boto3/ec2/deletetags.py
-boto3/examples/cloudfront.rst
-boto3/examples/s3.rst
 boto3/resources/__init__.py
 boto3/resources/action.py
 boto3/resources/base.py
@@ -66,6 +61,5 @@ boto3/resources/model.py
 boto3/resources/params.py
 boto3/resources/response.py
 boto3/s3/__init__.py
-boto3/s3/constants.py
 boto3/s3/inject.py
 boto3/s3/transfer.py
